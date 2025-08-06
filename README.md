@@ -44,18 +44,20 @@ An intelligent email reply generator that offers instant responses to emails in 
 
 ![Without Reply](./without_reply.png)
 
+![Failed Reply](./Screenshot 2025-08-06 172922.png)
+
 ---
 
 ### 💬 After Generating Replies (Different Tones)
 
 **Professional**
-![Professional Reply](./assets/screenshot-professional.png)
+![Professional Reply](./Screenshot 2025-08-06 172937.png)
 
 **Casual**
-![Casual Reply](./assets/screenshot-casual.png)
+![Casual Reply](./Screenshot 2025-08-06 172953.png)
 
 **Friendly**
-![Friendly Reply](./assets/screenshot-friendly.png)
+![Friendly Reply](./Screenshot 2025-08-06 173007.png)
 
 ---
 
