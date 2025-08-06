@@ -61,51 +61,54 @@ An intelligent email reply generator that offers instant responses to emails in 
 
 ## 🚀 Installation Guide
 
-Clone the Repository
+## 🚀 Getting Started
+
+### 📦 Clone the Repository
 
 ```bash
-
-git clone https://github.com/your-username/email-reply-generator.git
+git clone https://github.com/alsonmathias/email-reply-extension.git
 cd email-reply-generator
 ```
-Set Up Frontend (email-writer-react)
-
+💻 Set Up Frontend (email-writer-react)
 ```bash
 
 cd email-writer-react
 npm install
 npm start
 ```
-✅ Make sure the backend is running and the API URL is correctly set in the frontend.
+✅ Make sure the backend is running and the API URL is correctly configured in the frontend for successful communication.
 
-Set Up Backend (email-writer-sb)
-
+🧩 Set Up Backend (email-writer-sb)
 ```bash
-
+Copy
+Edit
 cd ../email-writer-sb
 ./mvnw spring-boot:run   # For Mac/Linux
 # OR
 mvn spring-boot:run      # For Windows
-Load Chrome Extension (email-writer-ext)
 ```
+🌐 Load Chrome Extension (email-writer-ext)
 
-Open Chrome and go to chrome://extensions/
 
-Enable Developer Mode
+1. Open Chrome and navigate to chrome://extensions/
 
-Click Load Unpacked
+2. Enable Developer Mode (toggle in the top-right corner)
 
-Select the email-writer-ext folder
+3. Click Load Unpacked
 
-Reload Gmail to see the extension in action
+4. Select the email-writer-ext folder
 
-🛠️ Tech Stack
-React.js – Frontend
+5. Open Gmail — the extension should now be active!
 
-Spring Boot – Backend
+6. Select the email-writer-ext folder
 
-Chrome Extension (Manifest V3) – Browser Integration
+| Component     | Technology Used                |
+| ------------- | ------------------------------ |
+| **Frontend**  | React.js                       |
+| **Backend**   | Spring Boot                    |
+| **Extension** | Chrome Extension (Manifest V3) |
+| **API Layer** | REST APIs                      |
+| **Scripting** | HTML / CSS / JavaScript        |
 
-REST APIs – Communication between frontend, backend, and extension
 
-HTML / CSS / JavaScript – Extension logic and interface
+Open Gmail — the extension should now be active!
