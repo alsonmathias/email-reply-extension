@@ -42,7 +42,7 @@ An intelligent email reply generator that offers instant responses to emails in 
 
 ### 🕶️ Before Generating Reply
 
-![Without Reply](./assets/screenshot-no-reply.png)
+![Without Reply](./without_reply.png)
 
 ---
 
